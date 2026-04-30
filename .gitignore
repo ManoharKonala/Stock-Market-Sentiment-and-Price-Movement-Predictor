@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Scripts (not deliverables)
+*.py
+convert_to_nb.py
+compare_metrics.py
+create_nlp_notebook.py
+create_report.py
+nlp_step1.py
+nlp_step2_3_4.py
+dl_v3.py
+
+# Scratch / temp files
+pdf_text.txt
+test.pdf
+Technical_Report.pdf
+
+# Model checkpoints (too large for GitHub)
+finbert-finetuned/
+checkpoint-*/
+
+# Misc
+model_comparison.md
+dl.ipynb
+LPU_Integrated_Project_Assignment_2025-26.pdf
