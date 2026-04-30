@@ -278,18 +278,11 @@ pip install -r requirements.txt
 - **Real-time streaming pipeline** with timestamp-safe news alignment
 - **Reinforcement learning** for position sizing and risk management
 
----
-
-## 📝 Resume Bullet
-
-> Built an integrated stock-direction prediction system combining a PyTorch stacked LSTM over 18 engineered technical indicators with a fine-tuned FinBERT financial sentiment pipeline, improving overlap-sample direction accuracy from 52.97% to 56.05% through sentiment-technical fusion while conducting rigorous performance, leakage, and limitation analysis.
-
----
 
 <div align="center">
 
 **Built with** ❤️ **using PyTorch, HuggingFace Transformers, and yfinance**
 
-*CSR311 Deep Learning × CSR322 Natural Language Processing — Integrated Project*
+*Deep Learning × Natural Language Processing — Integrated Project*
 
 </div>
